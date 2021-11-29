@@ -1,0 +1,55 @@
+@import url(components/UI_caroussel.css);
+
+body {
+  background-color: rgb(243, 232, 196);
+}
+
+h3 {
+  font-size: 25px;
+  color: rgb(119, 93, 80);
+  border: 2px solid rgb(207, 130, 88);
+  margin: 15px;
+  padding: 20px;
+  text-align: center;
+ }
+
+h2 {
+ font-size: 25px;
+  color: rgb(119, 93, 80);
+  border: 2px solid rgb(207, 130, 88);
+  margin: 15px;
+  padding: 20px;
+  text-align: center;
+}
+
+h1 {
+  font-size: 100px;
+  color:  rgb(119, 93, 80);
+  text-align: center;
+}
+
+h4 {
+  color: rgb(119, 93, 80);
+} 
+
+.image_profil { 
+     width: 250px;
+     border-radius: 500px;
+     display: block;
+     margin-left: auto;
+     margin-right: auto;
+    }
+
+
+.border {
+  border-top: dashed rgb(207, 130, 88) 5px;
+  margin: 20px;
+  padding: 10px;
+  text-align: center;
+  font-size: 20px;
+  color: rgb(119, 93, 80);
+}
+
+.test {
+  text-align: center;
+}

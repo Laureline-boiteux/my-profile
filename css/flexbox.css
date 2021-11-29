@@ -1,0 +1,23 @@
+.container {
+	border: solid red 2px;
+	margin: 5px;
+	padding: 20px;
+}
+
+.boite1 {
+	border:  solid green 2px;
+	margin: 5px;
+	padding: 10px;
+}
+
+.boite2 {
+	border: solid blue 2px;	
+	margin: 5px;
+	padding: 10px;
+}
+
+.boite3 {
+	border: solid orange 2px;
+	margin: 5px;
+	padding: 10px;
+}
